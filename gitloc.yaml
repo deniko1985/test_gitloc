@@ -3,5 +3,6 @@ config:
     locales:
         - en
         - de
+        - ru
     directories:
         - static/locales
